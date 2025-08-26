@@ -51,4 +51,4 @@ This project demonstrates basic Python programming, data structures, and control
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/krupalgohil/Learnind-Python.git
+   git clone https://github.com/krupalgohil/Learning-Python.git
